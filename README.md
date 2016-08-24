@@ -1,2 +1,6 @@
 # University-fainl-project
-Orientation obstacle avoidance algorithm for drone using BoofCV library 
+
+Development orientation obstacle avoidance algorithm for small drone.
+using BoofCV library version 0.19.
+
+
