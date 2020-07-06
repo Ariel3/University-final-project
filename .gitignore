@@ -1,0 +1,7 @@
+# Default ignored files
+/out
+/.idea
+/.gradle
+
+*.xml
+*.class
