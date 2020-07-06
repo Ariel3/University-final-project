@@ -1,7 +1,7 @@
 # University project
 
 Development orientation obstacle avoidance algorithm for small drone.
-using BoofCV library version 0.19.
+using BoofCV library version 0.36.
 
 In recent years there has been a rapid development in the Unmanned Aerial Vehicle (UAV) field. The most popular and useful tools for UAV are spatial sensors and GPS. These techniques can yield a high level of performance and accuracy, but they also have some drawbacks including their heavy weight and dependency on external devices. We suggest a new orientation algorithm to assist UAV navigate around obstacles using only one additional camera.
 
